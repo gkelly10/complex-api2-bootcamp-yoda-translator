@@ -1,0 +1,16 @@
+.bigcontainer{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(25, 108, 25);
+    width: 300px;
+    margin-left: 400px;
+    border: none;
+    border-radius: 30px;
+}
+button{
+    height: 33px;
+    width: 90px; 
+    background-color: rgb(142, 155, 142);
+    border: none;
+    border-radius: 30px;
+}
